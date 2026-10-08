@@ -2,69 +2,45 @@
 
 ## Purpose
 
-This project is the hands-on companion to the Linux Knowledge Base. The Knowledge Base explains concepts; this lab demonstrates practical Linux administration, troubleshooting, scripting, automation, and operational discipline.
+Build a production-style Linux administration lab that demonstrates practical system administration, troubleshooting, Bash scripting, automation, storage, networking, backup, and recovery skills.
 
 ## Scope
 
-- Linux server setup and baseline configuration
-- Filesystem and directory management
-- Users and groups
-- Permissions and ACLs
-- Package management
-- Processes and resource management
-- systemd services
-- Linux networking
-- SSH administration
-- Storage and LVM
-- Backup and recovery
-- cron and task scheduling
-- Bash scripting
-- System health checks
-- Final Linux Administration Toolkit
-
-## What this project is NOT
-
-Detailed attack detection, SIEM correlation, threat hunting, and incident response will be handled in the dedicated SOC/SIEM portfolio project.
-
-## Target Architecture
-
-Windows host
-|
-+-- Ubuntu Server VM
-    +-- Administration
-    +-- Services
-    +-- Networking
-    +-- Storage
-    +-- Automation
-    +-- Backups
-
-## Build Phases
-
 1. Lab environment and baseline
-2. Core administration
-3. Users, groups, permissions
-4. Packages, processes, services
-5. Networking and SSH
-6. Storage and backups
-7. Bash automation
-8. Scheduling and health checks
-9. Final administration toolkit
-10. Evidence, troubleshooting notes, and final documentation
+2. Linux filesystem and core administration
+3. Users and groups
+4. Permissions and ACLs
+5. Package management
+6. Processes and resource management
+7. systemd services
+8. Networking
+9. SSH administration
+10. Storage and LVM
+11. Backup and recovery
+12. Bash scripting
+13. cron and automation
+14. System health checks
+15. Troubleshooting scenarios
+16. Final Linux Administration Toolkit
 
-## Evidence Standard
+## What this project is not
 
-Each module should contain:
+Detailed attack simulation, SIEM correlation, threat hunting, and incident response belong to the later CEH and SOC/SIEM projects.
+
+## Evidence standard
+
+Every module should contain:
 - Objective
 - Environment
-- Commands
-- Configuration
+- Commands/configuration
 - Test procedure
 - Expected result
 - Actual result
+- Verification
 - Troubleshooting
-- Screenshot/evidence
+- Evidence
 - Key takeaways
 
-## Final Deliverable
+## Final deliverable
 
-A reusable linux-admin.sh toolkit with a menu for common administrative tasks, backed by documented scripts and tested against the Ubuntu Server VM.
+A reusable linux-admin.sh toolkit for common Linux administration tasks, supported by tested scripts and professional documentation.
