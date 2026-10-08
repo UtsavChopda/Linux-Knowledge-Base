@@ -1,0 +1,3 @@
+# Service Monitor Script
+
+Planned: check selected services, report status, and optionally perform a controlled restart.
