@@ -77,6 +77,8 @@ Security is included where it belongs to responsible Linux administration: least
 
 ## Current Status
 
-**Project architecture: complete. Lab execution: pending.**
+**Documentation phase: COMPLETE. Practical execution: pending.**
+
+See `COMPLETE-DOCUMENTATION.md`, `FINAL-PROJECT-REPORT.md`, `COMMAND-REFERENCE.md`, and `SECURITY-CHECKLIST.md` for the complete documentation set.
 
 The repository will only mark practical work complete after the corresponding VM lab is actually performed and verified.
