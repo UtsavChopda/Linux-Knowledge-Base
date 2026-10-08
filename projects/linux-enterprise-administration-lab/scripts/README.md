@@ -1,5 +1,14 @@
 # Scripts
 
-Reusable Bash automation scripts will be added here as the lab progresses.
+Reusable Bash scripts developed during the lab will live here.
 
-Planned scripts include system information, user management, disk monitoring, service monitoring, backup, network information, and system health checks.
+Planned scripts:
+- system information
+- user management
+- disk monitoring
+- service monitoring
+- network information
+- backup
+- system health check
+
+Each script should include purpose, prerequisites, usage, validation, and safe failure behavior.
